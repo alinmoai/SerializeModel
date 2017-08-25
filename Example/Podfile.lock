@@ -1,0 +1,16 @@
+PODS:
+  - SerializeModel (0.1.0)
+
+DEPENDENCIES:
+  - SerializeModel (from `../`)
+
+EXTERNAL SOURCES:
+  SerializeModel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SerializeModel: 739a6f4438dd443e6576f918484301fc4948c947
+
+PODFILE CHECKSUM: 12e633bf19748ad647520046f3df7ff864f1fc02
+
+COCOAPODS: 1.3.0.beta.2
