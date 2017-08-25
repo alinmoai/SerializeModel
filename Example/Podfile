@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SerializeModel_Example' do
+  pod 'SerializeModel', :path => '../'
+
+  target 'SerializeModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
